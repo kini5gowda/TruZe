@@ -8,4 +8,4 @@ If you find this work useful please cite: @article{gowda2021new,
   year={2021}
 }
 
-The directory ZSLsplits contains splits for both UCF101 and HMDB51. The directory TRXsplits, ARNsplits contains splits to run FSL using the splits directly on TRX and ARN respectively.
+The ZSL.txt, FSL.txt contains ZSL and FSL splits respectively for both UCF101 and HMDB51.
