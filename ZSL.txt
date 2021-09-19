@@ -1,0 +1,20 @@
+##UCF101
+
+Training (70 classes): Apply Eye Makeup, Archery, Baby Crawling, Band Marching,  Baseball pitch, Basketball Shooting, Basketball Dunk, Bench Press, Biking, Blowing Candles, 
+Cutting in Kitchen, Body Weight Squats, Bowling, Boxing Punching Bag, Boxing Speed Bag, Breaststroke, Brushing Teeth, Clean And Jerk, Cliff Diving, Cricket Bowling, Cricket Shot, 
+Diving, Drumming, Floor Gymnastics, Frisbee Catch,  Golf Swing, Haircut, Hammer Throw, Head Massage, High Jump, Horse Riding, Hula Hoop,  Javelin Throw, Juggling Balls, Jump Rope,
+Kayaking, Knitting, Long Jump, Lunges, Mopping Floor, Playing Cello, Playing Flute, Playing Guitar, Playing Piano, Playing Violin, Pole Vault, Punch, Pull Ups, Push Ups, 
+Rock Climbing Indoor, Rope Climbing, Salsa Spins, Shaving Beard, Shotput, Skate Boarding, Skiing, Skijet, Sky Diving, Soccer Juggling, Soccer Penalty, Surfing, Swing, TaiChi, 
+Tennis Swing, Throw Discus, Trampoline Jumping, Typing,  Volleyball Spiking, Walking With Dog, Writing On Board.
+
+Testing (31 classes): Apply Lipstick, Balance Beam, Billiards, Blow Dry Hair, Fencing, Field Hockey Penalty,  Front Crawl,  Hammering, Handstand Pushups, 
+Handstand Walking, Horse Race, Ice Dancing, Jumping Jack, Military Parade, Mixing,  Nunchucks, Parallel Bars, Pizza Tossing, Playing Daf, Playing Dhol,  Playing Sitar, 
+Playing Tabla, Pommel Horse, Rafting, Rowing, Still Rings, Sumo Wrestling, Table Tennis Shot, Uneven Bars, Wall Pushups, YoYo.
+
+##HMDB51
+
+Training (29 classes): Brush Hair, Cartwheel, Catch, Clap, Climb, Dive, Dribble, Drink, Eat, Golf, Hug, Kick Ball, Kiss, Laugh, Pullup, Punch, Push, Pushup, Ride Bike, Ride Horse,
+Shoot Ball, Shake Hands, Shoot Bow, Situp, Somersault, Swing Basketball, Smoke, Sword, Throw.
+
+Testing (22 classes): Chew, Climb Stairs, Draw Sword, Fall Floor, Fencing, Flic Flac, Handstand, Hit, Jump,  Kick, Pick, Pour, Run, Sit, Shoot Gun, Smile, Stand, Sword Exercise, 
+Talk, Turn, Walk, Wave.
